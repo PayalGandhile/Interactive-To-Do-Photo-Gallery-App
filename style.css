@@ -41,3 +41,19 @@ section h2 {
   margin-bottom: 10px;
   color: darkgreen;
 }
+
+li {
+  margin-bottom: 10px;
+}
+
+li button {
+  margin-left: 10px;
+  padding: 2px 6px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+li button:hover {
+  opacity: 0.8;
+}
